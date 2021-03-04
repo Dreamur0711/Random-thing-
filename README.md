@@ -7,3 +7,4 @@ me
 you
 JoJo
 A random things
+Jis like you and me
